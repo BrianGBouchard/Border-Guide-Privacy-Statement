@@ -1,0 +1,5 @@
+<html>
+<body>
+"Border Guide" requests the user's location in order to find the most efficient way for the user to cross the border from his or her current location.  The application will ask to access the user's location while using the app.  The user can still access the data in the app without enabling location services, however the "Find Fastest Crossing" feature will be unavailable.
+</body>
+</html>
